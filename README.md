@@ -31,7 +31,6 @@ A real-time news app offering a sleek, responsive interface with customizable th
 ## 🌟 What I'm Learning
 - Advanced backend systems for scalable apps
 - Backend Development
-- State management in Flutter (Provider, Riverpod, BLoC)  
 - Cloud integrations with Google Drive and iCloud  
 
 ---
@@ -42,4 +41,4 @@ A real-time news app offering a sleek, responsive interface with customizable th
 
 ---
 
-⭐️ **"Coding isn’t just my profession, it’s my passion! Let’s create amazing apps together."**
+⭐️ **"Coding isn’t just my profession, it’s my passion!"**
