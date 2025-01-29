@@ -37,8 +37,8 @@ A real-time news app offering a sleek, responsive interface with customizable th
 
 ## ✨ Let's Connect!
 - 💼 [Fiverr](https://www.fiverr.com/s/bdqjaEN)  
+- 💼 [Freelancer](@noureldeensalama's profile on Freelancer)  
 - 📫 Email: noureldeensalama2008@gmail.com
-
 ---
 
 ⭐️ **"Coding isn’t just my profession, it’s my passion!"**
