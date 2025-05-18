@@ -6,7 +6,7 @@ I'm a passionate **App Developer** with 4+ years of experience in crafting power
 
 ## 🛠 Skills & Expertise
 - **Mobile App Development**: Dart, Flutter, Android (Java/Kotlin)
-- **Databases**: Firebase, Firestore, PostgreSQL, MySQL
+- **Databases**: Firebase, Firestore, Supabase, PostgreSQL, MySQL
 - **API Integration**: RESTful APIs
 - **Other**: Git/GitHub, Responsive UI Design
 
