@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Noureldeen Salama
 
-I'm a **Senior Mobile App Developer & AI/ML Specialist** passionate about building **end-to-end cross-platform applications** that merge performance, design, and scalability into seamless user experiences.  
+I'm a **Mobile App Developer & AI/ML Specialist** passionate about building **end-to-end cross-platform applications** that merge performance, design, and scalability into seamless user experiences.  
 
 Beyond coding, I’ve proven my ability to take ideas from concept to market, most notably with **Propelo AI**, an AI-powered SaaS that helps freelancers save hours through automated proposals. This journey sharpened my skills in blending AI/ML innovation with mobile ecosystems, creating products that directly solve real-world problems.
 
