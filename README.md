@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Noureldeen Salama
 
-I'm a **Founder, Full-Stack Engineer & AI Builder** who ships production-grade mobile apps and AI-powered SaaS products that solve real problems at scale.
+I'm a **Founder, Full-Stack Software Engineer** who ships production-grade mobile apps and AI-powered SaaS products that solve real problems at scale.
 
 I've taken **4 apps live on the App Store and Google Play** — independently designed, engineered, and deployed — while founding **Propelo AI**, an active AI SaaS with a Chrome Extension used across Upwork, Fiverr, and Freelancer.com. I thrive at the intersection of clean architecture, AI-driven product thinking, and fast execution.
 
